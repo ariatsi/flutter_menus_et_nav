@@ -22,7 +22,7 @@ Il illustre l’utilisation des menus (`Drawer` et `BottomNavigationBar`) ainsi 
 
 ```
 lib/
-├── main.dart                 // Écran principal avec menus
+├── main.dart                // Écran principal avec menus
 ├── home_page.dart           // Page d’accueil (HomePage)
 ├── search_page.dart         // Page de recherche (SearchPage)
 ├── profile_page.dart        // Page de profil (ProfilePage)
@@ -96,3 +96,6 @@ flutter run
 - Gestion des états avec `Provider` ou `setState`
 
 
+## Licence
+
+📄 Ce projet est distribué sous la licence Academic Free License v3.0 ([AFL-3.0](https://opensource.org/licenses/AFL-3.0)).
