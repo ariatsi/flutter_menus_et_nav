@@ -27,7 +27,6 @@ lib/
 └── edit_profile_page.dart   // Page de modification du profil (EditProfilePage)
 ```
 
----
 
 ## Navigation mise en œuvre
 
@@ -83,6 +82,7 @@ flutter pub get
 flutter run
 ```
 
+Ce projet a été testé et développé dans **Android Studio**, avec les plugins Flutter et Dart installés.
 
 ## À venir
 
