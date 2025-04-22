@@ -40,11 +40,6 @@ class EditProfilePage extends StatelessWidget {
                   icon: const Icon(Icons.close),
                   label: const Text('Annuler'),
                 ),
-                ElevatedButton.icon(
-                  onPressed: () {},
-                  icon: Icon(Icons.check),
-                  label: Text('Valider'),
-                )
               ],
             ),
           ],
