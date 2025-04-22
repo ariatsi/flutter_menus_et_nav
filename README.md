@@ -6,7 +6,6 @@ Projet Flutter d’apprentissage — **Menus et Navigation entre écrans**
 Ce projet fait partie d’un cours complet sur Flutter destiné aux étudiants en informatique.  
 Il illustre l’utilisation des menus (`Drawer` et `BottomNavigationBar`) ainsi que la navigation vers différents écrans dans une application Flutter.
 
----
 
 ## Objectifs pédagogiques
 
@@ -16,7 +15,6 @@ Il illustre l’utilisation des menus (`Drawer` et `BottomNavigationBar`) ainsi 
 - Organiser le code en plusieurs fichiers pour chaque page
 - Gérer l’interface utilisateur avec des boutons (valider, annuler)
 
----
 
 ## Structure du projet
 
@@ -65,7 +63,6 @@ Et pour revenir :
 Navigator.pop(context);
 ```
 
----
 
 ## Concepts couverts
 
@@ -76,7 +73,6 @@ Navigator.pop(context);
 - Construction de boutons (`ElevatedButton`, `OutlinedButton`, etc.)
 - Utilisation de `SnackBar` et `ScaffoldMessenger`
 
----
 
 ## Lancer le projet
 
@@ -87,7 +83,6 @@ flutter pub get
 flutter run
 ```
 
----
 
 ## À venir
 
